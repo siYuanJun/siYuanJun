@@ -1,4 +1,4 @@
-# 👋 Hi, I'm siYuanJun
+# 👋 Hi, I'm Lujo
 
 > 热爱不止于代码，全心投入 AI 探索之旅！
 
