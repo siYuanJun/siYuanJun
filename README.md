@@ -18,6 +18,7 @@ AI Agent 工程实践者，专注 **Skill 工程** 与 **Harness 编排**——�
 | [skill-flow-viz](https://github.com/siYuanJun/skill-flow-viz) | Skill 工程可视化：把 SKILL.md 的执行脉络翻译为流程图 + 时间轴 + 信息卡，几秒掌握每个 Skill 怎么跑 |
 | [interview-tiger](https://github.com/siYuanJun/interview-tiger) | 本地化 AI 面试辅助工具：实时录制面试官语音，AI 生成贴合你个人背景的回答建议 |
 | [ontology-brain-visual](https://github.com/siYuanJun/ontology-brain-visual) | 本体工程师数字员工展示层：Harness 团队 + Skill 工程的对外可视化（Dashboard / KPI / 时间轴） |
+| [showcase](https://github.com/siYuanJun/showcase) | 工程作品集：能力档案 ×4 + 可视化工程 ×5 的统一展示索引（纯静态 HTML，克隆即看） |
 
 ## 🛠️ 技术栈
 
