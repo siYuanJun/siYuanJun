@@ -35,4 +35,4 @@
 
 ---
 
-📧 联系我：[hello@siyuanjun.dev](mailto:hello@siyuanjun.dev) · 🧭 持续探索 AI Agent 工程化
+📧 联系我：[siyuanjunr@qq.com](mailto:siyuanjunr@qq.com) · 🧭 持续探索 AI Agent 工程化
