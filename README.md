@@ -14,6 +14,7 @@ AI Agent 工程实践者，专注 Skill 工程与 Harness 编排——把 AI 从
 
 | 项目 | 说明 |
 |---|---|
+| [Showcase](https://siyuanjun.github.io/showcase/) | 工程作品集：能力档案 ×4 + 可视化工程 ×5 的统一展示索引，纯静态 HTML 可在线浏览 |
 | [Harness Team System](https://github.com/siYuanJun/harness-team-system) | AI 多 Agent 团队体系：方法论 + 搭团队元工具 + 三档角色分级 + 五器官大脑模型 |
 | [Open Skills Collection](https://github.com/siYuanJun/open-skills-collection) | 开放技能与开源研究收藏库：外部 Skill 索引 + 开源项目深度解析 |
 | [Skill Flow Viz](https://github.com/siYuanJun/skill-flow-viz) | Skill 工程可视化：把 SKILL.md 执行脉络翻译为流程图与时间轴 |
