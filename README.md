@@ -12,7 +12,7 @@ AI Agent 工程实践者，专注 Skill 工程与 Harness 编排——把 AI 从
 
 ## 技能工程索引
 
-公开仓库 78 个；技能工程仓 18 个：单技能 15、集合 1、内嵌 2，技能条目 31。
+技能工程仓 18 个：单技能 15、集合 1、内嵌 2，技能条目 31。
 覆盖治理体检、测试验收、需求起草与评审、内容生产、本体建模、运维执行、交付编排七类场景。
 
 逐仓登记见 [skills-index](https://github.com/siYuanJun/skills-index)：每个仓的性质、可见性、入口、技能数与用途各一行。索引只放清单，不放技能正文；被索引的仓保持各自原可见性。
@@ -22,13 +22,31 @@ AI Agent 工程实践者，专注 Skill 工程与 Harness 编排——把 AI 从
 
 ## 精选项目
 
+**体系与技能工程**
+
 | 项目 | 说明 |
 |---|---|
-| [Showcase](https://siyuanjun.github.io/showcase/) | 工程作品集：能力档案 ×4 + 可视化工程 ×5 的统一展示索引，纯静态 HTML 可在线浏览 |
-| [Harness Team System](https://github.com/siYuanJun/harness-team-system) | AI 多 Agent 团队体系：方法论 + 搭团队元工具 + 三档角色分级 + 五器官大脑模型 |
-| [Open Skills Collection](https://github.com/siYuanJun/open-skills-collection) | 开放技能与开源研究收藏库：外部 Skill 索引 + 开源项目深度解析 |
-| [Skill Flow Viz](https://siyuanjun.github.io/skill-flow-viz/index.html) | Skill 工程可视化：把 SKILL.md 执行脉络翻译为流程图与时间轴，可在线浏览 |
-| [CortexLab](https://github.com/siYuanJun/cortexlab) | 数字员工大脑架构实验室：3D 人体隐喻可视化 AgentTeams SDK 架构 |
+| [Harness Team System](https://github.com/siYuanJun/harness-team-system) | AI 多 Agent 团队体系：方法论 + 搭团队元工具 + 垂直团队分级 |
+| [Open Skills Collection](https://github.com/siYuanJun/open-skills-collection) | 外部 Skill 索引与开源项目解析，持续增量收录 |
+| [Skill Flow Viz](https://siyuanjun.github.io/skill-flow-viz/index.html) | 把 SKILL.md 执行脉络翻译为流程图与时间轴，可在线浏览 |
+
+**可视化展示**
+
+| 项目 | 说明 |
+|---|---|
+| [Showcase](https://siyuanjun.github.io/showcase/) | 工程作品集索引：能力档案 ×4 + 可视化工程 ×5 |
+| [CortexLab](https://github.com/siYuanJun/cortexlab) | 数字员工大脑架构：3D 人体隐喻与 SDK 解剖 |
+| [Ontology-Brain Visual](https://siyuanjun.github.io/ontology-brain-visual/) | 本体工程师团队的 Dashboard、KPI 与时间轴 |
+
+**产品应用**
+
+| 项目 | 说明 |
+|---|---|
+| [Interview Tiger](https://github.com/siYuanJun/interview-tiger) | 浏览器内的 AI 面试辅助：实时转写并给出回答建议 |
+| [Pressure Test Platform](https://github.com/siYuanJun/pressure-test-platform) | 网站压测：申请、审核、执行与报告生成 |
+| [Trae Competition Skills](https://github.com/siYuanJun/trae-competition-skills) | 参赛材料全流程 Skill 包：选题、文案、质检、物料 |
+
+其中 Harness Team System 与 Open Skills Collection 暂未公开，入口保留在此。
 
 ### Harness Team System
 
