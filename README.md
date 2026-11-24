@@ -30,6 +30,12 @@ AI Agent 工程实践者，专注 Skill 工程与 Harness 编排——把 AI 从
 | [Skill Flow Viz](https://siyuanjun.github.io/skill-flow-viz/index.html) | Skill 工程可视化：把 SKILL.md 执行脉络翻译为流程图与时间轴，可在线浏览 |
 | [CortexLab](https://github.com/siYuanJun/cortexlab) | 数字员工大脑架构实验室：3D 人体隐喻可视化 AgentTeams SDK 架构 |
 
+### Harness Team System
+
+![Harness Team System 三层体系：方法论、工具层、团队层](assets/harness-team-system-banner.png)
+
+方法论 9 步 → 三件元工具（搭建器、派单器、蒸馏器）→ 六支垂直团队。仓库内附可交互的分层拆解图，可逐状态查看一层层装配的过程。
+
 ## 技术栈
 
 AI Agent · Skill 工程 · Harness 编排 · Claude Code · LLM · RAG · Python · TypeScript · React · FastAPI · Three.js
