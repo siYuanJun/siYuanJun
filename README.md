@@ -44,7 +44,6 @@ AI Agent 工程实践者，专注 Skill 工程与 Harness 编排——把 AI 从
 |---|---|
 | [Interview Tiger](https://github.com/siYuanJun/interview-tiger) | 浏览器内的 AI 面试辅助：实时转写并给出回答建议 |
 | [Pressure Test Platform](https://github.com/siYuanJun/pressure-test-platform) | 网站压测：申请、审核、执行与报告生成 |
-| [Trae Competition Skills](https://github.com/siYuanJun/trae-competition-skills) | 参赛材料全流程 Skill 包：选题、文案、质检、物料 |
 
 其中 Harness Team System 与 Open Skills Collection 暂未公开，入口保留在此。
 
