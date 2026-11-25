@@ -29,6 +29,7 @@ AI Agent 工程实践者，专注 Skill 工程与 Harness 编排——把 AI 从
 | [Harness Team System](https://github.com/siYuanJun/harness-team-system) | AI 多 Agent 团队体系：方法论 + 搭团队元工具 + 垂直团队分级 |
 | [Open Skills Collection](https://github.com/siYuanJun/open-skills-collection) | 外部 Skill 索引与开源项目解析，持续增量收录 |
 | [Skill Flow Viz](https://siyuanjun.github.io/skill-flow-viz/index.html) | 把 SKILL.md 执行脉络翻译为流程图与时间轴，可在线浏览 |
+| [工程判定案例](https://siyuanjun.github.io/engineering-basis/) | 五类判定口的可跑切片：合入、发版、缺陷、需求、交付 |
 
 **可视化展示**
 
