@@ -18,7 +18,7 @@ AI Agent 工程实践者，专注 Skill 工程与 Harness 编排——把 AI 从
 逐仓登记见 [skills-index](https://github.com/siYuanJun/skills-index)：每个仓的性质、可见性、入口、技能数与用途各一行。索引只放清单，不放技能正文；被索引的仓保持各自原可见性。
 可视化入口：[Skill Flow Viz](https://siyuanjun.github.io/skill-flow-viz/index.html)（技能执行脉络的单页拆解，可直接在线看）。
 
-> 立场说明：会用一个 skill 是工具能力；把二十多个技能按场景分工、编排、治理起来，才是工程能力。
+每个仓负责一段流程，触发边界、产出物与验收口径写在仓内；跨仓的分工由 Harness 编排。
 
 ## 精选项目
 
